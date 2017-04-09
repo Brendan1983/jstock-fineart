@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About?
+title: About Jeanne
 permalink: "/about/"
 ---
 
-
-Here's some new text
+This page is about Jeanne.
