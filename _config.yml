@@ -36,3 +36,10 @@ exclude:
 collections:
   pastels:
     output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "pastels"
+    values:
+      layout: "pastel"
