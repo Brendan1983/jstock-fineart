@@ -1,0 +1,23 @@
+  <!--<script type="text/javascript" src"{{ "/assets/main.js" | relative_url }}"></script>-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+  <script>
+
+	$(document).ready(function(){	
+
+		$('.site-header__trigger, .site-header__close').on('click', function(e){
+			e.preventDefault();
+			var header = $('.site-header'),
+				page = $('.page-content');
+			if (header.hasClass('menu-open')) {
+		        header.removeClass('menu-open');
+		        page.removeClass('menu-open');
+		    } else {
+		        header.toggleClass('menu-open');
+		        page.toggleClass('menu-open');
+		    }
+		});	
+
+	});
+
+</script>

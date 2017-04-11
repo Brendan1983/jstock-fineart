@@ -1,0 +1,15 @@
+<a class="mobile-site-title" href="{{ "/" | relative_url }}">jeanne stock<span>fine art</span></a>
+<a class="site-header__trigger" href="#">Menu</a>
+
+<header class="site-header" role="banner">
+    <a class="site-header__close">X</a>
+    {% assign default_paths = site.pages | map: "path" %}
+    {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ "/" | relative_url }}">jeanne stock<span>fine art</span></a>
+  
+    {% if page_paths %}
+      <nav class="site-nav">
+      </nav>
+    {% endif %}
+</header>
+

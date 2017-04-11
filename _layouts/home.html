@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Pastels</h1>
+
+<ul class="home-list">
+{% for pastel in site.pastels %}
+  <li>
+    <h2>
+      <a class="post-link" href="{{ pastel.url | relative_url }}">{{ pastel.title | escape }}</a>
+    </h2>
+  </li>
+{% endfor %}
+</ul>

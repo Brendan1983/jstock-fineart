@@ -1,11 +1,224 @@
-
 ---
 # Front matter comment to ensure Jekyll properly reads file.
 ---
 
 @import "minima";
 
+/*----------------------
+
+ FONTS
+
+----------------------*/
+
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Playfair+Display:700i');
+
+$heading-font: 'Playfair Display', serif;
+$body-font: 'Lato', sans-serif;
+
+/*----------------------
+
+COLORS
+
+----------------------*/
+
+$ltgrey: #ededed;
+$grey: #aaa;
+
+/*----------------------
+
+TYPOGRAPHY
+
+----------------------*/
+
+html, body{
+	box-sizing:border-box;
+	font-family:$body-font;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3,h4,h5,h6{
+	font-family:$heading-font;
+}
+
+a{
+  color: $grey;
+  text-decoration: none;
+
+  &:visited {
+    color: darken($grey, 15%);
+  }
+
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  .social-media-list &:hover {
+    text-decoration: none;
+    .username {
+      text-decoration: underline;
+    }
+  }
+
+}
+
+
+/*----------------------
+
+HEADER
+
+----------------------*/
+
 .site-header{
-	border-top:none;
-	background:blue;
+	box-sizing:border-box;
+	border:none;
+	padding:30px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	transform:translateX(-300px);
+	width: 300px;
+	height: 100%;
+	overflow-y: auto;
+	-webkit-overflow-scrolling: touch;
+	background: $grey;
+	z-index: 1;
+	transition:transform ease-in-out 0.3s;
+	&.menu-open {
+		transform:translateX(0);
+	}
+}
+
+a.site-title{
+	display:block;
+	padding-top:15px;
+	width:100%;
+	text-align:right;
+	font-family:$heading-font;
+	font-size:36px;
+	text-transform:lowercase;
+	font-style:italic;
+	font-weight:700;
+	line-height:36px;
+	color:$ltgrey;
+	letter-spacing:0.0005em;
+	&:visited{
+		color:$ltgrey;
+	}
+	span{
+		font-family:$body-font;
+		font-style:normal;
+		display:block;
+		letter-spacing: 2px;
+	    text-transform: uppercase;
+	    font-size: .3em;
+	}
+}
+
+.site-header__close{
+	position:absolute;
+	top:0;
+	right:0;
+	padding:15px;
+	color:white;
+	text-decoration:none;
+	font-size:11px;
+	text-transform:uppercase;
+	letter-spacing:1px;
+	cursor:pointer;
+	&:hover{
+		color:white;
+	}
+}
+
+.site-header__trigger{
+	position:fixed;
+	top:0;
+	left:0;
+	text-decoration:none;
+	padding:15px 20px;
+	text-transform:uppercase;
+	font-size:11px;
+	letter-spacing:1px;
+}
+
+.mobile-site-title{
+	font-family:$heading-font;
+	color:$grey;
+	position:fixed;	
+	top:0;
+	right:0;
+	text-align:right;
+	font-size:24px;
+	text-transform:lowercase;
+	font-style:italic;
+	font-weight:700;
+	line-height:24px;
+	letter-spacing:0.0005em;
+	padding:15px 20px;
+	span{
+		font-family:$body-font;
+		font-style:normal;
+		display:block;
+		letter-spacing: 2px;
+	    text-transform: uppercase;
+	    font-size: .3em;
+	}
+}
+
+/*----------------------
+
+MAIN CONTENT AREA
+
+----------------------*/
+
+.page-content{
+	min-height:100vh;
+	background:$ltgrey;
+	padding:15px;
+	&:after{
+		content:"";
+		display:block;
+		position:absolute;
+		top:0;
+		right:0;
+		bottom:0;
+		left:0;
+		pointer-events:none;
+		background:rgba(white,0.8);
+		opacity:0;
+		transition:opacity ease-in 0.2s;
+	}
+	&.menu-open{
+		&:after{
+			display:block;
+			opacity:1;
+		}
+	}
+}
+
+@media only screen and (min-width : 960px) {
+
+	// HEADER
+
+	.mobile-site-title{
+		display:none;
+	}
+	
+	.site-header, .site-header.menu-open{
+		transform:translateX(0);
+	}
+
+	.site-header__close, .site-header__trigger{
+		display:none;
+	}
+
+	// MAIN CONTENT AREA
+
+	.page-content{
+		margin-left:300px;
+		padding:45px;
+	}
+
 }
