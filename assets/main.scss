@@ -23,6 +23,7 @@ COLORS
 
 $ltgrey: #ededed;
 $grey: #aaa;
+$drkgrey: #333;
 
 /*----------------------
 
@@ -35,6 +36,7 @@ html, body{
 	font-family:$body-font;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    color:$drkgrey;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -196,6 +198,10 @@ MAIN CONTENT AREA
 			opacity:1;
 		}
 	}
+}
+
+.page-content-wrapper{
+	max-width:800px;
 }
 
 @media only screen and (min-width : 960px) {
