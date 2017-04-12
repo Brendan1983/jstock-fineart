@@ -11,10 +11,10 @@
 		{% for pastel in site.pastels %}
 			<li>
 				<a href="{{ pastel.url | relative_url }}" style="background-image:url({{ pastel.image }});">
-					<div class="home-list__content">
+				</a>
+								<div class="home-list__content">
 						<h3>{{ pastel.title }}</h3>
 					</div>
-				</a>
 			</li>
 		{% endfor %}
 		</ul>

@@ -249,20 +249,23 @@ HOME
 	@extend %clearfix;
 	li{
 		width:100%;
+		overflow:hidden;
+		position:relative;
 		a{
 			display:block;
 			background-size:cover;
 			background-position:center center;
-			position:relative;
+			transition:transform ease-out 2.5s;
 			&:before{
 				content:"";
 				display:block;
 				padding-top:70%;
 			}
 			&:hover{
-				.home-list__content{
+				+ .home-list__content{
 					opacity:1;
 				}
+				transform: scale(1.06);
 			}
 		}
 	}
@@ -293,8 +296,7 @@ html.js{
 	transition:opacity ease-in-out 0.75s;
 	text-align:right;
 	padding:30px;
-	display:flex;
-	flex-flow:column nowrap;
+	pointer-events:none;
 }
 
 /*----------------------
