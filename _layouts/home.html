@@ -6,15 +6,19 @@
   <body>
 
     {% include header.html %}
-
-    <ul class="home-list">
-	{% for pastel in site.pastels %}
-		<li>
-			<a class="post-link" href="{{ pastel.url | relative_url }}" style="background-image:url({{ pastel.image }});"></a>
-		</li>
-	{% endfor %}
-	</ul>
-
+    <main class="page-content" aria-label="Content">
+	    <ul class="home-list">
+		{% for pastel in site.pastels %}
+			<li>
+				<a href="{{ pastel.url | relative_url }}" style="background-image:url({{ pastel.image }});">
+					<div class="home-list__content">
+						<h3>{{ pastel.title }}</h3>
+					</div>
+				</a>
+			</li>
+		{% endfor %}
+		</ul>
+	</main>
     {% include footer.html %}
 
   </body>

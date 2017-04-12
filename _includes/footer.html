@@ -1,7 +1,8 @@
-  <!--<script type="text/javascript" src"{{ "/assets/main.js" | relative_url }}"></script>-->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.1/imagesloaded.pkgd.min.js" integrity="sha256-zAdh941DoLFXtGUGZBEF/46kYB76aqVq3aCTjawcSws=" crossorigin="anonymous"></script>
+<!--<script type="text/javascript" src"/assets/main.js"></script>-->
 
-  <script>
+<script>
 
 	$(document).ready(function(){	
 
@@ -16,6 +17,18 @@
 		        header.toggleClass('menu-open');
 		        page.toggleClass('menu-open');
 		    }
+		});
+
+		$( ".home-list li" ).each(function( index ) {
+			$(this).css('-webkit-transition-delay', index/10 + 's' )
+				   .css('-moz-transition-delay', index/10 + 's')
+				   .css('-ms-transition-delay', index/10 + 's')
+				   .css('-o-transition-delay', index/10 + 's')
+				   .css('transition-delay', index/10 + 's');
+		});
+
+		$('.home-list').imagesLoaded( { background: true }, function() {
+			$('.home-list').addClass('images-loaded');
 		});	
 
 	});

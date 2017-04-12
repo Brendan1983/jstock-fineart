@@ -43,3 +43,9 @@ defaults:
       type: "pastels"
     values:
       layout: "pastel"
+
+assets:
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"

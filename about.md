@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Jeanne
-permalink: "/about-jeanne/"
+title: About
+permalink: "/about/"
 ---
 
 
