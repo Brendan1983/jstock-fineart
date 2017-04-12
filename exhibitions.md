@@ -14,10 +14,7 @@ UPCOMING EXHIBITIONS
 
 
 
-
-
-
-PAST EXHIBITIONS
+<span style="font-size: 1rem;">PAST EXHIBITIONS</span>
 
 2/20/2017 - C.Leslie Smith
 
