@@ -39,6 +39,10 @@ html, body{
     color:$drkgrey;
 }
 
+body{
+	background:$ltgrey;
+}
+
 h1,h2,h3,h4,h5,h6{
 	font-family:$heading-font;
 }
@@ -71,6 +75,11 @@ a{
 HEADER
 
 ----------------------*/
+
+.mobile-header{
+	padding:15px;
+	@extend %clearfix;
+}
 
 .site-header{
 	box-sizing:border-box;
@@ -135,22 +144,17 @@ a.site-title{
 }
 
 .site-header__trigger{
-	position:fixed;
-	top:0;
-	left:0;
 	text-decoration:none;
-	padding:15px 20px;
 	text-transform:uppercase;
 	font-size:11px;
 	letter-spacing:1px;
+	float:left;
 }
 
 .mobile-site-title{
+	float:right;
 	font-family:$heading-font;
 	color:$grey;
-	position:fixed;	
-	top:0;
-	right:0;
 	text-align:right;
 	font-size:24px;
 	text-transform:lowercase;
@@ -158,7 +162,6 @@ a.site-title{
 	font-weight:700;
 	line-height:24px;
 	letter-spacing:0.0005em;
-	padding:15px 20px;
 	span{
 		font-family:$body-font;
 		font-style:normal;
@@ -177,7 +180,6 @@ MAIN CONTENT AREA
 
 .page-content{
 	min-height:100vh;
-	background:$ltgrey;
 	padding:15px;
 	&:after{
 		content:"";
@@ -200,15 +202,52 @@ MAIN CONTENT AREA
 	}
 }
 
-.page-content-wrapper{
-	max-width:800px;
+.home-list{
+	list-style:none;
+	margin:0;
+	width:100%;
+	@extend %clearfix;
+	li{
+		width:100%;
+		a{
+			display:block;
+			background-size:cover;
+			background-position:center center;
+			&:before{
+				content:"";
+				display:block;
+				padding-top:70%;
+			}
+		}
+	}
+}
+
+@media only screen and (min-width : 480px) {
+	
+	.home-list{
+		li{
+			width:50%;
+			float:left;
+		}
+	}
+
+}
+
+@media only screen and (min-width : 640px) {
+	
+	.home-list{
+		li{
+			width:calc(100%/3);
+		}
+	}
+
 }
 
 @media only screen and (min-width : 960px) {
 
 	// HEADER
 
-	.mobile-site-title{
+	.site-header__close, .mobile-header {
 		display:none;
 	}
 	
@@ -216,15 +255,20 @@ MAIN CONTENT AREA
 		transform:translateX(0);
 	}
 
-	.site-header__close, .site-header__trigger{
-		display:none;
-	}
-
 	// MAIN CONTENT AREA
 
 	.page-content{
 		margin-left:300px;
 		padding:45px;
+	}
+
+	.page-content-wrapper{
+		max-width:800px;
+	}
+
+	.home-list{
+		width:calc(100% - 300px);
+		margin-left:300px;
 	}
 
 }

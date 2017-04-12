@@ -1,15 +1,22 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<h1>Pastels</h1>
+  {% include head.html %}
 
-<ul class="home-list">
-{% for pastel in site.pastels %}
-  <li>
-    <h2>
-      <a class="post-link" href="{{ pastel.url | relative_url }}">{{ pastel.title | escape }}</a>
-    </h2>
-  </li>
-{% endfor %}
-</ul>
+  <body>
+
+    {% include header.html %}
+
+    <ul class="home-list">
+	{% for pastel in site.pastels %}
+		<li>
+			<a class="post-link" href="{{ pastel.url | relative_url }}" style="background-image:url({{ pastel.image }});"></a>
+		</li>
+	{% endfor %}
+	</ul>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
