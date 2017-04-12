@@ -5,7 +5,7 @@ permalink: "/exhibitions/"
 ---
 
 
-UPCOMING EXHIBITIONS
+**UPCOMING EXHIBITIONS**
 
 5/10/2017 - Allentown Art Museum
 
@@ -14,7 +14,7 @@ UPCOMING EXHIBITIONS
 
 
 
-<span style="font-size: 1rem;">PAST EXHIBITIONS</span>
+<span style="font-size: 1rem;"><b>PAST EXHIBITIONS</b></span>
 
 2/20/2017 - C.Leslie Smith
 
