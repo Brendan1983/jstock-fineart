@@ -7,15 +7,12 @@ permalink: "/exhibitions/"
 
 **UPCOMING EXHIBITIONS**
 
-5/10/2017 - Allentown Art Museum
+5/22/2017 through July 9, 2017 - Bethlehem Palette Club Spring Juried Show                                        <span style="font-size: 1rem;">Moravian College's Haupert Center, Bethlehem, PA</span>
 
-7/4/2017 - Kempton Fine Art Society
-
-
-
+<span style="font-size: 1rem;">6/6/2017 - Lehigh Art Alliance Spring Juried Show &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Baum School of Art, Allentown, PA</span>
 
 <span style="font-size: 1rem;"><b>PAST EXHIBITIONS</b></span>
 
-2/20/2017 - C.Leslie Smith
+<span style="font-size: 1rem;">March 2017 - C.Leslie Smith Silversmith Shop, Allentown, PA</span>
 
-11/10/2016 - Parkland Art Club
+November through December 2016 - Kalmbach Community Center, Macungie
