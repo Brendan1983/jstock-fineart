@@ -10,7 +10,6 @@ pages:
 - _pastels/fifth-pastel.md
 - _pastels/fourth-pastel.md
 - _pastels/third-pastel.md
-- _pastels/second-pastel.md
 hide_body: false
 fields:
 - name: image
