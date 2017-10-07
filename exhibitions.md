@@ -7,19 +7,19 @@ permalink: "/exhibitions/"
 
 **UPCOMING EXHIBITIONS**
 
-**5/22/2017 through July 9, 2017 **
+Friday, November 3: 6-9 pm
 
-Bethlehem Palette Club Spring Juried Show
+Saturday, November 4: 10 am - 4 pm
 
-<span style="font-size: 1rem;">Moravian College's Haupert Center, Bethlehem, PA</span>
+<span style="font-size: 1rem;">Sunday, November 5: 11 am - 3 pm</span>
 
-<span style="font-size: 1rem;"><b>6/6/2017 through</b> &nbsp;</span>
+<span style="font-size: 1rem;">Work of Our Hands Exhibit &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span><span style="font-size: 1rem;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span>
 
-<span style="font-size: 1rem;">Lehigh Art Alliance Spring Juried Show</span>
-
-<span style="font-size: 1rem;">Baum School of Art, Allentown, PA</span>
+<span style="font-size: 1rem;">&nbsp;</span><span style="font-size: 1rem;">W</span><span style="font-size: 1rem;">eisenberg/Lowhill Twp. Historical Society</span>
 
 <span style="font-size: 1rem;"><b>PAST EXHIBITIONS</b></span>
+
+<span style="font-size: 1rem;"><i>May 22-July 9, 2017 -&nbsp;</i></span><span style="font-size: 1rem;">Bethlehem Palette Club Spring Juried Show</span>
 
 <span style="font-size: 1rem;"><i>March 2017</i> - C.Leslie Smith Silversmith Shop, Allentown, PA</span>
 
