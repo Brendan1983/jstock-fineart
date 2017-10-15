@@ -1,7 +1,4 @@
 ---
-pages:
-- _pastels/fourth-pastel.md
-- _pastels/third-pastel.md
 hide_body: false
 fields:
 - name: image
