@@ -1,4 +1,6 @@
 ---
+pages:
+- _pastels/always-cheery.md
 hide_body: false
 fields:
 - name: image
