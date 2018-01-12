@@ -5,8 +5,9 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
+_Saturday, June 2, 2018_  
 Hawk Mtn. Arts Tour  
-Saturday, June 2, 2018  
+  
 I am excited to be a guest exhibitor at the studio of Gene H. Allen, landscape painter  
 5008 Golden Key Rd., Kempton,PA  
 Opening preview reception will be Friday, June 1  
@@ -21,7 +22,7 @@ Governor Wolf Historical Society
 Ralston-McKeen House
 
 _Friday, November 3, 4 and 5  
-_"Work of Our Hands Exhibit"  
+_Work of Our Hands Exhibit  
 Weisenberg/Lowhill Twp. Historical Society
 
 _May 22-July 9, 2017_   
