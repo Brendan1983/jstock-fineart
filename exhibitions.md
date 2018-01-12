@@ -5,6 +5,15 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
+Hawk Mtn. Arts Tour  
+Saturday, June 2, 2018  
+I am excited to be a guest exhibitor at the studio of Gene H. Allen, landscape painter  
+5008 Golden Key Rd., Kempton,PA  
+Opening preview reception will be Friday, June 1  
+  
+_November through December 2018_   
+Kalmbach Community Center, Macungie, PA
+
 EXHIBITIONS
 
 _Friday, November 10, 2017_  
