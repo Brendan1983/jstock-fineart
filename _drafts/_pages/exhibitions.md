@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exhibitions Bethlehem Palette Club Spring Juried Exhibition
+title: Exhibitions
 permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
