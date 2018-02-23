@@ -5,14 +5,19 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
+_February 22 - April 8, 2018  
+_Bethlehem Palette Club Spring Juried Exhibition  
+Signal Museum  342 Northampton St., Easton PA  
+Closing reception Sunday, April 8 2-4 pm
+
 _Saturday, June 2, 2018_  
-Hawk Mtn. Arts Tour  
-  
+Hawk Mtn. Arts Tour
+
 I am excited to be a guest exhibitor at the studio of Gene H. Allen, landscape painter  
 5008 Golden Key Rd., Kempton,PA  
-Opening preview reception will be Friday, June 1  
-  
-_November through December 2018_   
+Opening preview reception will be Friday, June 1
+
+_November through December 2018_  
 Kalmbach Community Center, Macungie, PA
 
 EXHIBITIONS
@@ -25,7 +30,7 @@ _Friday, November 3, 4 and 5
 _Work of Our Hands Exhibit  
 Weisenberg/Lowhill Twp. Historical Society
 
-_May 22-July 9, 2017_   
+_May 22-July 9, 2017_  
 Bethlehem Palette Club Spring Juried Show</span>
 
 _March 2017_  
