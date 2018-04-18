@@ -20,6 +20,7 @@ pages:
 - _pastels/bittersweet-blue.md
 - _pastels/always-cheery.md
 hide_body: false
+is_partial: false
 fields:
 - name: image
   type: file
