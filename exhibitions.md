@@ -7,22 +7,26 @@ published: false
 ---
 **UPCOMING EXHIBITIONS**
 
-_February 22 - April 8, 2018  
-_Bethlehem Palette Club Spring Juried Exhibition  
-Signal Museum  342 Northampton St., Easton PA  
-Closing reception Sunday, April 8 2-4 pm
-
-_Saturday, June 2, 2018_  
-Hawk Mtn. Arts Tour
-
-I am excited to be a guest exhibitor at the studio of Gene H. Allen, landscape painter  
-5008 Golden Key Rd., Kempton,PA  
-Opening preview reception will be Friday, June 1
+_September 23, 2018 through October 21, 2018_  
+Lehigh Art Alliance 83rd Annual Fall Exhibition  
+Allentown Art Museum community Gallery  
+Allentown, PA  
+Opening preview reception will be Sunday, September 30
 
 _November through December 2018_  
 Kalmbach Community Center, Macungie, PA
 
 EXHIBITIONS
+
+_February 22 - April 8, 2018_  
+Bethlehem Palette Club Spring Juried Exhibition  
+Signal Museum  342 Northampton St., Easton PA  
+Closing reception Sunday, April 8 2-4 pm
+
+_Saturday, June 2, 2018_  
+Hawk Mtn. Arts Tour  
+5008 Golden Key Rd., Kempton,PA  
+Opening preview reception will be Friday, June 1
 
 _Friday, November 10, 2017_  
 Governor Wolf Historical Society  
