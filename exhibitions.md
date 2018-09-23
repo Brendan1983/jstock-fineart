@@ -9,7 +9,7 @@ published: false
 
 _September 23, 2018 through October 21, 2018_  
 Lehigh Art Alliance 83rd Annual Fall Exhibition  
-Allentown Art Museum community Gallery  
+Allentown Art Museum Community Gallery  
 Allentown, PA  
 Opening preview reception will be Sunday, September 30
 
