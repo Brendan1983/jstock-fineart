@@ -2,6 +2,7 @@
 layout: page
 title: Lehigh Art Alliance  83rd Annual Fall Juried Exhibition
 permalink: "/exhibitions/"
+published: false
 
 ---
 **UPCOMING EXHIBITIONS**
