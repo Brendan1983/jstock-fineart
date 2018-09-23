@@ -18,6 +18,10 @@ Kalmbach Community Center, Macungie, PA
 
 EXHIBITIONS
 
+_August 16  - September 16, 2018_  
+Baum School & Morning Call 12th Annual Juried Exhibition  
+Baum School, Allentown, PA
+
 _February 22 - April 8, 2018_  
 Bethlehem Palette Club Spring Juried Exhibition  
 Signal Museum  342 Northampton St., Easton PA
@@ -35,9 +39,9 @@ Work of Our Hands Exhibit
 Weisenberg/Lowhill Twp. Historical Society
 
 _May 22-July 9, 2017_  
-Bethlehem Palette Club Spring Juried Show</span>
+Bethlehem Palette Club Spring Juried Show
 
 _March 2017_  
-C.Leslie Smith Silversmith Shop, Allentown, PA</span>
+C.Leslie Smith Silversmith Shop, Allentown, PA
 
 _November through December 2016_ - Kalmbach Community Center, Macungie
