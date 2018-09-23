@@ -7,6 +7,7 @@ fields:
   type: file
   label: Image
 pages:
+- _pastels/Baby-It's-Cold-Outside.md
 - _pastels/clever-mama-killdeer.md
 - _pastels/marble-madness.md
 - _pastels/heed-the-call.md
