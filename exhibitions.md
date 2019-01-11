@@ -10,7 +10,7 @@ _December 21 through February 17, 2019
 Lehigh Art Alliance Winter Juried Show  
 The_ Banana Factory, Bethlehem, PA
 
-_December 12 through February 3, 2019  
+December 12 through February 3, 2019  
 Bethlehem Palette Club Fall juried Show  
 _Rotunda, Bethlehem, PA
 
