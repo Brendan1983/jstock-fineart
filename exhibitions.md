@@ -6,16 +6,26 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
-_September 23, 2018 through October 21, 2018_  
-Lehigh Art Alliance 83rd Annual Fall Exhibition  
-Allentown Art Museum Community Gallery  
-Allentown, PA  
-Opening preview reception will be Sunday, September 30
+_December 21 through February 17, 2019  
+Lehigh Art Alliance Winter Juried Show  
+The_ Banana Factory, Bethlehem, PA
 
-_November through December 2018_  
+_December 12 through February 3, 2019  
+Bethlehem Palette Club Fall juried Show  
+_Rotunda, Bethlehem, PA
+
+_November through January 2019_  
 Kalmbach Community Center, Macungie, PA
 
 EXHIBITIONS
+
+_November 20 through December 30, 2018  
+Parkland Art League Member Show_
+
+_September 23, 2018 through October 21, 2018_  
+Lehigh Art Alliance 83rd Annual Fall Exhibition  
+Allentown Art Museum Community Gallery  
+Allentown, PA
 
 _August 16  - September 16, 2018_  
 Baum School & Morning Call 12th Annual Juried Exhibition  
@@ -42,5 +52,3 @@ Bethlehem Palette Club Spring Juried Show
 
 _March 2017_  
 C.Leslie Smith Silversmith Shop, Allentown, PA
-
-_November through December 2016_ - Kalmbach Community Center, Macungie
