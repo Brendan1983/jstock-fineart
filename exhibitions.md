@@ -7,12 +7,12 @@ permalink: "/exhibitions/"
 **UPCOMING EXHIBITIONS**
 
 _December 21 through February 17, 2019  
-Lehigh Art Alliance Winter Juried Show  
-The_ Banana Factory, Bethlehem, PA
+_Lehigh Art Alliance Winter Juried Show_  
+_The Banana Factory, Bethlehem, PA
 
-December 12 through February 3, 2019  
-Bethlehem Palette Club Fall juried Show  
-_Rotunda, Bethlehem, PA
+_December 12 through February 3, 2019_  
+Bethlehem Palette Club Fall Juried Show  
+The Rotunda, Bethlehem, PA
 
 _November through January 2019_  
 Kalmbach Community Center, Macungie, PA
