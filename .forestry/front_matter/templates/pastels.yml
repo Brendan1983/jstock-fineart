@@ -6,6 +6,7 @@ fields:
   type: file
   label: Image
 pages:
+- _pastels/Baby-It's-Cold-Outside.md
 - _pastels/clever-mama-killdeer.md
 - _pastels/heed-the-call.md
 - _pastels/glorious-pumpkin-time.md
@@ -15,7 +16,6 @@ pages:
 - _pastels/nestled.md
 - _pastels/bittersweet-blue.md
 - _pastels/nanny-s-blue-vase.md
-- _pastels/Baby-It's-Cold-Outside.md
 - _pastels/hummingbird-meets-st-peter-s.md
 - _pastels/farm-tool-1.md
 - _pastels/clara-s-pear.md
