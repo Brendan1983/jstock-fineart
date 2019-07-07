@@ -6,9 +6,29 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
-_December 21 through February 17, 2019  
+_August 15 - September 11, 2019_  
+Baum School of Art & Morning Call 13th Annual Juried Show  
+Baum School of Art, Allentown, PA
+
+_July 5 - August 18, 2019_  
+Lehigh Art Alliance Summer Juried Show  
+1869 Lückenbach Mill in Historic Bethlehem, PA
+
+**EXHIBITIONS**
+
+_June-July 27, 2019_  
+Bethlehem Palette Club All Member Exhibit  
+Penn State Lehigh Valley Campus, Ron DeLong Gallery  
+Center Valley, PA
+
+_June 1, 2019  9 a.m.-5 p.m._  
+Hawk Mountain Art Tour & Sale  
+Gene Allen's Studio 5008 Golden Key Rd.  
+Kempton, PA
+
+December 21 through February 17, 2019  
 _Lehigh Art Alliance Winter Juried Show_  
-_The Banana Factory, Bethlehem, PA
+The Banana Factory, Bethlehem, PA
 
 _December 12 through February 3, 2019_  
 Bethlehem Palette Club Fall Juried Show  
@@ -16,8 +36,6 @@ The Rotunda, Bethlehem, PA
 
 _November through January 2019_  
 Kalmbach Community Center, Macungie, PA
-
-EXHIBITIONS
 
 _November 20 through December 30, 2018  
 Parkland Art League Member Show_
@@ -43,7 +61,7 @@ _Friday, November 10, 2017_
 Governor Wolf Historical Society  
 Ralston-McKeen House
 
-_Friday_, _November 3, 4 and 5_  
+_Friday_, _November 3, 4 and 5, 2017_  
 Work of Our Hands Exhibit  
 Weisenberg/Lowhill Twp. Historical Society
 
