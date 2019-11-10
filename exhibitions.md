@@ -6,6 +6,25 @@ permalink: "/exhibitions/"
 ---
 **UPCOMING EXHIBITIONS**
 
+_November 9 - November 17, 2019_  
+ 7th Annual Nature in Art Juried Exhibition  
+Lehigh Gap Nature Center, 8844 Paint Mill Rd., Slatington, PA
+
+_November 18 - January 6, 2019_  
+Southern Lehigh Library "Food" Exhibit  
+3200 Preston Lane, Center Valley, PA
+
+_December 6 - January 31, 2019_  
+Parkland Art League 2nd Annual All Member Exhibit  
+Laura's Custom Framing & Fine Art Shop  
+1328 Chestnut St., Emmaus, PA
+
+**EXHIBITIONS**
+
+_November 1 - November 3, 2019_  
+"Work of Our Hands" Weisenberg Lowhill Historical Society  
+New Tripoli, PA
+
 _August 15 - September 11, 2019_  
 Baum School of Art & Morning Call 13th Annual Juried Show  
 Baum School of Art, Allentown, PA
@@ -13,8 +32,6 @@ Baum School of Art, Allentown, PA
 _July 5 - August 18, 2019_  
 Lehigh Art Alliance Summer Juried Show  
 1869 Lückenbach Mill in Historic Bethlehem, PA
-
-**EXHIBITIONS**
 
 _June-July 27, 2019_  
 Bethlehem Palette Club All Member Exhibit  

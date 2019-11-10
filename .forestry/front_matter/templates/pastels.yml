@@ -6,6 +6,8 @@ fields:
   type: file
   label: Image
 pages:
+- _pastels/hummingbird-meets-st-peter-s.md
+- _pastels/always-cheery.md
 - _pastels/Baby-It's-Cold-Outside.md
 - _pastels/clever-mama-killdeer.md
 - _pastels/heed-the-call.md
@@ -16,7 +18,6 @@ pages:
 - _pastels/nestled.md
 - _pastels/bittersweet-blue.md
 - _pastels/nanny-s-blue-vase.md
-- _pastels/hummingbird-meets-st-peter-s.md
 - _pastels/farm-tool-1.md
 - _pastels/clara-s-pear.md
 - _pastels/blue-true-dream-of-a-sky.md
@@ -24,5 +25,4 @@ pages:
 - _pastels/werley-s-corner-fields.md
 - _pastels/marble-madness.md
 - _pastels/who-s-there.md
-- _pastels/always-cheery.md
 - _pastels/there-s-a-fungus-among-us.md
