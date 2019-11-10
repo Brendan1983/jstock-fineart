@@ -6,6 +6,7 @@ fields:
   type: file
   label: Image
 pages:
+- _pastels/Stately Beech.md
 - _pastels/hummingbird-meets-st-peter-s.md
 - _pastels/always-cheery.md
 - _pastels/Baby-It's-Cold-Outside.md
